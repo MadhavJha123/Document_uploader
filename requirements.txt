@@ -1,0 +1,8 @@
+Flask==2.2.3
+Flask-SQLAlchemy==3.0.3
+sqlalchemy_utils
+Flask-Login==0.6.2
+Flask-Mail==0.9.1
+Flask-RESTful==0.3.9
+Flask-Security==3.0.0
+SQLAlchemy==2.0.7
